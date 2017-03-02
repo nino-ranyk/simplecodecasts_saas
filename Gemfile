@@ -10,7 +10,7 @@ gem 'sqlite3', group: [:development, :test]
 
 
 #Use bootstrap library for styles
-gem 'bootstrap-sass', '>= 3.3.4'
+gem 'bootstrap-sass', '>= 3.3.7'
 
 
 #use postgresql as the database for production
